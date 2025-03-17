@@ -1,6 +1,5 @@
 [build]
 publish = "build"
-command = "npm run build"
 
 [[headers]]
 for = "/Build/*.br"
